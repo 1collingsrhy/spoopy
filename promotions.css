@@ -1,0 +1,16 @@
+.div{
+  height: 400px;
+  width: 30%;
+  display: inline-block;
+  margin-left: 35px;
+  margin-right: 10px;
+}
+.barcode{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+
+#img{
+  margin-left: 200px;
+}

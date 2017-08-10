@@ -1,0 +1,31 @@
+#owner{
+  display: inline-block;
+}
+
+#chef{
+  display: inline-block;
+  float: right;
+}
+.milk{
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  margin-left: 326px;
+}
+
+#server{
+  display: inline-block;
+}
+.description{
+  display: inline-block;
+  margin-right: 0px;
+}
+
+#ownerpic{
+
+  
+}
+
+#restaurant{
+  float: right;
+}

@@ -1,0 +1,32 @@
+#food{
+  width: 50%;
+  display: inline-block;
+
+}
+#banner{
+  width: 100%;
+
+}
+
+#firstLine{
+  margin-top: 0px;
+
+}
+
+#drink{
+  width: 50%;
+  display: inline-block;
+  float: right;
+}
+#FirstLine{
+  margin-top:0px;
+}
+
+
+.milkimg{
+  float: right;
+}
+.latteimg{
+  display: inline-block;
+  float: right;
+}

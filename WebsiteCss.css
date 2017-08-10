@@ -1,0 +1,28 @@
+a:hover{
+  color: #ffc31e;
+  text-decoration-color: #ada8a8;
+}
+
+#map{
+  width: 100%;
+}
+
+#rightarrow{
+  float: right;
+}
+
+#leftarrow{
+  display: inline-block;
+}
+
+#milk{
+  display: inline-block;
+}
+
+#white{
+  display: inline-block;
+}
+
+#rightarrow{
+  display: inline-block;
+}
